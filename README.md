@@ -17,7 +17,6 @@ Many government agencies and large enterprises face strict **data residency requ
 
 ## ✅ The Solution
 
-**Yes, it’s possible.**
 
 With **Azure Local** combined with **Azure Arc**, organizations can extend cloud-native capabilities to their on-premises infrastructure—without compromising on security or compliance.
 
